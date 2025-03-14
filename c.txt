@@ -3,6 +3,3 @@ add  dfsgj
 author1 sdfa
 author2 sdlfsa
 issual sdf
-issual2 sdlfsa
-issual3 dsfs
-test4 dsf
